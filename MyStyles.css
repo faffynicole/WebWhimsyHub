@@ -1,0 +1,250 @@
+/*.........Universal..........*/
+*{
+    box-sizing: border-box;
+}
+
+
+
+
+/*.........................BODY....................*/
+
+body{
+    background: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+   
+}
+
+
+/*...........................................*/
+
+
+
+
+
+
+
+
+
+/*...............HEADER..............................*/
+header nav a{
+    color: rgb(243, 243, 243);
+}
+
+
+header a:hover{
+    color: rgb(245, 90, 240);
+    text-decoration:wavy;  
+}
+
+
+header{
+    position: relative;
+top: -16px;
+
+}
+
+li{
+    display: inline-block;
+    margin: 3%;
+    }
+
+/*...........................................*/
+
+
+
+
+
+
+
+
+
+
+/*........................HOME......................*/
+
+.HomeHeader{
+    background: rgb(27, 32, 34);
+    height: 115px;
+    text-align: center;
+    margin-top: -27px;
+    margin-bottom: -16px;
+    }
+
+.HomeVid video{
+    width: 100%;
+    height: 100%;
+    object-fit:contain;
+   background-color: #000000;
+}
+
+.HomeVid{
+    position: relative;
+    width: 100%;
+    height: 150vh;
+}
+
+.HomeSection h1{
+background: rgb(0, 0, 0);
+text-transform:uppercase;
+color: rgb(129, 12, 171);
+text-align: center;
+margin-top:5%;
+padding: 0;
+font-size: xxx-large;
+font-stretch: narrower;
+} 
+
+.B h1{
+    color: rgb(55, 166, 225);
+}
+
+
+.C h1{
+    color: rgb(225, 100, 55);
+}
+
+.D h1{
+    color: rgb(55, 225, 95);
+}
+
+.Container h2{
+    color: rgb(211, 217, 211);
+    margin-top: -6%;
+    padding: 5%;
+    font-size: xx-large;
+    
+}
+     
+.Container p{
+    margin-bottom: 150px;
+   
+   
+}
+
+
+
+
+/*...........................................*/
+
+
+
+
+
+
+
+/*....................ABOUT...........................*/
+
+
+.AboutMe{
+    background: rgb(0, 0, 0);
+    width: 100%;
+    height: 200px;
+    text-align: right;
+    padding-right: 0% ;
+    margin: 0%;
+    
+    
+   
+    }
+
+
+.AboutMe nav{
+     text-align:center;
+     background: rgb(27, 32, 34);
+     margin-top: -24px;
+    
+    }
+
+
+.AboutMe h1{
+    background-color: #000000;
+    text-indent: 30%; 
+    width: 100%;
+    margin-top: -40px;
+    font-family:cursive;
+    color: bisque;
+    text-transform: uppercase;
+    
+ 
+}
+
+
+
+
+
+section{
+background: black;
+
+
+
+}
+
+
+.MainContainer{
+   
+    max-width: 100%;
+    position: absolute;
+    
+    
+}
+
+
+.ImageContainer {
+    margin: 3% ;
+    width: 40%;
+    background: rgb(243, 240, 240);
+   
+    
+ 
+}
+
+img{
+    float: left;
+    width: 80%;
+    border: 3px solid pink;
+    border-radius: 10px;
+    margin-right: 40px;
+    
+
+}
+
+.TextContainer{
+    padding-left: 45px;
+    
+}
+
+
+
+.TextContainer h4{
+color: whitesmoke;
+font-size: larger;
+padding-right: 2%;
+}
+
+
+
+
+
+
+
+
+
+/*...........................................*/
+
+
+
+footer{
+    background: rgb(146, 14, 14);
+    margin: 0;
+    display:block;
+    }
+    
+/*MY CAPTURES*/
+
+
+
+
+/*CONTACTS*/
+
