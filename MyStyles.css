@@ -257,7 +257,7 @@ top: 0px; /* shifts the whole greetings to the top */
     #ac8d0e 100%       /* Yellow at 360 degrees (0 degrees) to complete the circle */);  /* for setting the "About Nicole" text bckgrnd color: a gradient */
     background-position: 250px 300px;
     color: rgb(19, 12, 3);  /* for setting the "About Nicole" text color */
-    font-family:cursive;  /* for setting the font features of the "About Nicole" text */
+    font-family:normal;  /* for setting the font features of the "About Nicole" text */
     margin-top: 40px;   /* for adjusting the "About Nicole" text container height */
     text-indent: 30%;   /* for adjusting the position of the "About Nicole" text  */
     text-decoration: underline;  /* for underlining the "About Nicole" text */
