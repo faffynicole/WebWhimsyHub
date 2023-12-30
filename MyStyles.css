@@ -586,7 +586,7 @@ padding-top: 20px;
      .Responsive-H1Text h1{
         display: inline-block;  /*shows the header for responsive screens*/
         color: rgb(63, 229, 229);  /*shows color of text*/
-        padding-left: 55px;  /*shifts the text to the right to center it*/
+        padding-left: 50px;  /*shifts the text to the right to center it*/
         font-size: 4vw;   /*shifts the font size of the text*/
         margin-top: 30px;   /*aligns the text on the center of the container*/
      }
