@@ -665,9 +665,26 @@ padding-top: 20px;
      .TextContainer h4{
         font-size: large;
      }
-
     }
 
+@media screen and (max-width:872px){
+      .HomeVid {
+        display: none;
+    }
+
+
+    .HomeAlt  {
+       display: block;
+         /* 4 the Home page video bckground color           margin-bottom: -695px;      */
+    }
+
+    .HomeAlt img{
+        width: 100%;
+        height: 100%;
+        position: relative;
+    }
+
+}
 
 
 
@@ -1037,8 +1054,6 @@ padding-top: 20px;
         width: 100%;
         height: 100%;
         position: relative;
-       
-       
     }
 
     
